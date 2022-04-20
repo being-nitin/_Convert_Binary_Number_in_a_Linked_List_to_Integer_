@@ -2,7 +2,7 @@ package com.linkedlist;
 import java.util.*;
 
      /*
-      Convert Binary Number in a Linked List to Integer
+      k opp0
 
       Given head which is a reference node to a singly-linked list.
       The value of each node in the linked list is either 0 or 1.
@@ -47,32 +47,13 @@ public class Main {
             temp = temp.next;
         }
         return sum;
-
     }
-    public class Linked{
+    public class Linked {
         public static void main(String[] args) {
             Main obj = new Main();
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    static class Node{
+        static class Node{
         int val;
         Node next;
 
@@ -86,6 +67,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        int sum = Math.pow(2,1)*
+        
     }
 }
